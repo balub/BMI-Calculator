@@ -1,4 +1,4 @@
-# xylophone
+# BMI Calculator
 
 Simple BMI calulator made out of Flutter, built as per a project requirement in the Flutter Course.
 
