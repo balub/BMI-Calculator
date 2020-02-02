@@ -6,8 +6,8 @@ Simple BMI calulator made out of Flutter, built as per a project requirement in 
 
 ## Screenshots
 
-[<img src ="https://imgur.com/a/FCCPEL2" width=100>](https://imgur.com/a/FCCPEL2)
-[<img src ="https://imgur.com/2mJmpL0" width=100>](https://imgur.com/2mJmpL0)
+[<img src ="https://imgur.com/a/FCCPEL2.jpg" width=100>](https://imgur.com/a/FCCPEL2.jpg)
+[<img src ="https://imgur.com/2mJmpL0.jpg" width=100>](https://imgur.com/2mJmpL0.jpg)
 
 
 ## Made with 
